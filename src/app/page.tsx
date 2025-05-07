@@ -85,7 +85,7 @@ export default function Home() {
                   </div>
                 </div>
                 <p className="text-gray-700">
-                  "The support and guidance we received was invaluable. The team's expertise and compassion made all the difference in our journey."
+                  &ldquo;The support and guidance we received was invaluable. The team&apos;s expertise and compassion made all the difference in our journey.&rdquo;
                 </p>
               </div>
             ))}
